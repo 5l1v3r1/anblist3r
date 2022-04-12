@@ -108,8 +108,8 @@ sudo yum install python-argparse
 sudo pip install argparse
 ```
 ## Updated New 2022 by Anonre
-- Naver
-- Daum
+- Add Naver Search Engine
+- Add Daum Search Engine
 - Display Self Hostname
 - Display Self IP Address
 
