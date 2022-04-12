@@ -1,4 +1,4 @@
-## Anblist3r
+## Anblist3r - Python3
 
 Anblist3r is a fork of the [sublist3r](https://github.com/aboul3la/sublist3r) subdomain discovery tool. In addition to the original OSINT capabilties of sublist3r, Anblist3r automates some analysis of the results, with a focus on subdomain takeover.
 
