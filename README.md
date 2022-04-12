@@ -124,7 +124,7 @@ Respect legal restrictions and only conduct testing against infrastructure that 
 * [aboul3la](https://github.com/aboul3la/sublist3r) - The creator of **Sublist3r**; Anblist3r adds some features but is otherwise a near clone of sublist3r. 
 * [TheRook](https://github.com/TheRook/) - The bruteforce module was based on his script **subbrute**.
 * [bitquark](https://github.com/bitquark) - The Subbrute's wordlist was based on his research **dnspop**.
-* [fleetcaptain](https://github.com/fleetcaptain) - The **Turbolist3r**; Anblist3r adds some features but is otherwise a near clone of Turbolist3r
+* [fleetcaptain](https://github.com/fleetcaptain) - The creator of **Turbolist3r**; Anblist3r adds some features but is otherwise a near clone of Turbolist3r
 
 ## Thanks
 
