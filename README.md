@@ -29,39 +29,39 @@ Short Form    | Long Form     | Description
 
 * To list all the basic options and switches use -h switch:
 
-```python Anblist3r.py -h```
+```python3 Anblist3r.py -h```
 
 * To enumerate subdomains of a specific domain, perform advanced analysis, and save the analysis to a file:
 
-``python Anblist3r.py -d example.com -a --saverdns analysis_file.txt``
+``python3 Anblist3r.py -d example.com -a --saverdns analysis_file.txt``
 
 * Read subdomains from a file and perform advanced analysis on them:
 
-``python Anblist3r.py -d example.com -a --inputfile subdomains.txt``
+``python3 Anblist3r.py -d example.com -a --inputfile subdomains.txt``
 
 * Using -r to populate DNS resolvers from a file (resolvers used with -a analysis module):
 
-``python Anblist3r.py -d example.com -a --inputfile subdomains.txt -r dns_servers.txt``
+``python3 Anblist3r.py -d example.com -a --inputfile subdomains.txt -r dns_servers.txt``
 
 * To enumerate subdomains of specific domain:
 
-``python Anblist3r.py -d example.com``
+``python3 Anblist3r.py -d example.com``
 
 * To enumerate subdomains of specific domain and save discovered subdomains to a file:
 
-``python Anblist3r.py -d example.com -o example_hosts.txt``
+``python3 Anblist3r.py -d example.com -o example_hosts.txt``
 
 * To enumerate subdomains of specific domain and show the results in realtime:
 
-``python Anblist3r.py -v -d example.com``
+``python3 Anblist3r.py -v -d example.com``
 
 * To enumerate subdomains and enable the bruteforce module:
 
-``python Anblist3r.py -b -d example.com``
+``python3 Anblist3r.py -b -d example.com``
 
 * To enumerate subdomains and use specific engines such Google, Yahoo and Virustotal engines
 
-``python Anblist3r.py -e google,yahoo,virustotal -d example.com``
+``python3 Anblist3r.py -e google,yahoo,virustotal -d example.com``
 
 
 ## Dependencies:
